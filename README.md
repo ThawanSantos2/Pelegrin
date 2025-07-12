@@ -1,5 +1,5 @@
-Projeto Pelegrin
-Sobre o Projeto
+# Projeto Pelegrin
+# Sobre o Projeto
 Este projeto, Pelegrin, foi criado por Thawan Bomfim dos Santos, desenvolvedor responsável por toda a concepção, design e implementação. É um aplicativo web para exibir projetos de comunicação visual, utilizando uma interface moderna e responsiva.
 Como Editar o Código
 Existem várias maneiras de editar o código deste projeto.
